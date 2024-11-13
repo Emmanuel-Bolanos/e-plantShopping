@@ -47,6 +47,15 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.product-grid .product-category {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin: 16px auto;
+    padding: 4px 32px;
+    width: fit-content;
+}
+
 .product-list {
     display: flex;
     flex-wrap: wrap;
